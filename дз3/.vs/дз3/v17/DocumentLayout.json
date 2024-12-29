@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\max_L\\source\\repos\\\u0434\u04373\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E10A636-91DF-4205-9BB4-D95100C494DD}|\u0434\u04373\\\u0434\u04373.vcxproj|C:\\Users\\max_L\\source\\repos\\\u0434\u04373\\\u0434\u04373\\\u0434\u04373.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E10A636-91DF-4205-9BB4-D95100C494DD}|\u0434\u04373\\\u0434\u04373.vcxproj|solutionrelative:\u0434\u04373\\\u0434\u04373.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\max_L\\AppData\\Local\\Temp\\523bdac2-7d6c-48ce-b74a-804c7c259d20_Source.zip.d20\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\max_L\\AppData\\Local\\Temp\\523bdac2-7d6c-48ce-b74a-804c7c259d20_Source.zip.d20\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\523bdac2-7d6c-48ce-b74a-804c7c259d20_Source.zip.d20\\Source.cpp",
+              "ToolTip": "C:\\Users\\max_L\\AppData\\Local\\Temp\\523bdac2-7d6c-48ce-b74a-804c7c259d20_Source.zip.d20\\Source.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\523bdac2-7d6c-48ce-b74a-804c7c259d20_Source.zip.d20\\Source.cpp [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAHkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T12:03:10.699Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0434\u04373.cpp",
+              "DocumentMoniker": "C:\\Users\\max_L\\source\\repos\\\u0434\u04373\\\u0434\u04373\\\u0434\u04373.cpp",
+              "RelativeDocumentMoniker": "\u0434\u04373\\\u0434\u04373.cpp",
+              "ToolTip": "C:\\Users\\max_L\\source\\repos\\\u0434\u04373\\\u0434\u04373\\\u0434\u04373.cpp*",
+              "RelativeToolTip": "\u0434\u04373\\\u0434\u04373.cpp*",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAvwKoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T12:02:40.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
